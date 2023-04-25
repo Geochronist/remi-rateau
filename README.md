@@ -1,2 +1,2 @@
-# remi-rateau
-Perosnal webpage
+# Rémi Rateau - Geoscientist
+Professional webpage
